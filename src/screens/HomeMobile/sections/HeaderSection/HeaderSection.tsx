@@ -13,7 +13,7 @@ export const HeaderSection = (): JSX.Element => {
               </h1>
 
               <p className="w-full font-text-regular-normal font-[number:var(--text-regular-normal-font-weight)] text-white text-[length:var(--text-regular-normal-font-size)] text-center tracking-[var(--text-regular-normal-letter-spacing)] leading-[var(--text-regular-normal-line-height)] [font-style:var(--text-regular-normal-font-style)]">
-                Al-Ameed creates the electronic services your business needs. We
+                Viruox creates the electronic services your business needs. We
                 design websites, develop databases, craft logos, and deliver
                 results that matter.
               </p>

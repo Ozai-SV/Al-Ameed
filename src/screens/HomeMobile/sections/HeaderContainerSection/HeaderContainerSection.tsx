@@ -13,7 +13,7 @@ export const HeaderContainerSection = (): JSX.Element => {
               </h1>
 
               <p className="font-text-regular-normal font-[number:var(--text-regular-normal-font-weight)] text-white text-[length:var(--text-regular-normal-font-size)] text-center tracking-[var(--text-regular-normal-letter-spacing)] leading-[var(--text-regular-normal-line-height)] [font-style:var(--text-regular-normal-font-style)]">
-                Al-Ameed builds the digital foundation your company needs. We
+                Viruox builds the digital foundation your company needs. We
                 design, develop, and deliver work that lasts.
               </p>
             </div>

@@ -1,4 +1,6 @@
-import React from "react";
+
+
+import React from "react";  
 import { Link } from "react-router-dom";
 import { Button } from "../components/ui/button";
 import { Card, CardContent } from "../components/ui/card";
@@ -57,7 +59,7 @@ export const About = (): JSX.Element => {
             About Us
           </span>
           <h1 className="font-heading-h1 text-4xl md:text-6xl font-bold text-white mb-6">
-            Meet Al-Ameed
+            Meet Viruox
           </h1>
           <p className="font-text-regular-normal text-white/90 text-lg md:text-xl max-w-3xl mx-auto">
             A dedicated team of three professionals committed to delivering exceptional digital solutions
@@ -76,7 +78,7 @@ export const About = (): JSX.Element => {
                 Building Digital Excellence Together
               </h2>
               <p className="font-text-regular-normal text-gray-600 text-lg mb-6">
-                Al-Ameed was founded on a simple belief: that exceptional digital solutions come from
+                Viruox was founded on a simple belief: that exceptional digital solutions come from
                 a combination of technical expertise, creative vision, and genuine dedication to client success.
               </p>
               <p className="font-text-regular-normal text-gray-600 text-lg mb-6">

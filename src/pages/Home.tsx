@@ -55,7 +55,7 @@ export const Home = (): JSX.Element => {
           </h1>
 
           <p className="font-text-medium-normal text-white/90 text-lg md:text-xl max-w-3xl mx-auto mb-10">
-            Al-Ameed delivers professional software development, design, and digital services.
+            Viruox delivers professional software development, design, and digital services.
             We transform your vision into powerful digital solutions.
           </p>
 
@@ -132,7 +132,7 @@ export const Home = (): JSX.Element => {
                 Your Trusted Technology Partner
               </h2>
               <p className="font-text-regular-normal text-gray-600 text-lg mb-8">
-                With a dedicated team of three expert professionals, Al-Ameed combines technical excellence
+                With a dedicated team of three expert professionals, Viruox combines technical excellence
                 with personalized service. We understand that every project is unique, and we deliver
                 solutions that exceed expectations.
               </p>

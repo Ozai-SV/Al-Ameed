@@ -20,11 +20,7 @@ export const Navigation = (): JSX.Element => {
       <div className="max-w-screen-xl mx-auto px-5 py-4">
         <div className="flex items-center justify-between">
           <Link to="/" className="flex items-center">
-            <img
-              src="/logo-wide-1.svg"
-              alt="Al-Ameed"
-              className="h-8 w-auto"
-            />
+            <span className="text-2xl font-bold">Viruox</span>
           </Link>
 
           <div className="hidden md:flex items-center gap-8">

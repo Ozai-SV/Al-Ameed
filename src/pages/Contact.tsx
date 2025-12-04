@@ -65,10 +65,10 @@ export const Contact = (): JSX.Element => {
                   Send us an email anytime
                 </p>
                 <a
-                  href="mailto:info@al-ameed.com"
+                  href="mailto:info@viruox.com"
                   className="font-text-regular-normal text-gray-900 hover:underline"
                 >
-                  info@al-ameed.com
+                  info@viruox.com
                 </a>
               </CardContent>
             </Card>

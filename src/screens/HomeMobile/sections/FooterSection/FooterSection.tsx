@@ -30,11 +30,7 @@ export const FooterSection = (): JSX.Element => {
         <div className="flex-col items-start gap-12 w-full flex">
           <div className="flex flex-col items-start gap-5 w-full">
             <div className="w-[84px] h-9">
-              <img
-                className="w-[70px] h-9"
-                alt="Logo wide"
-                src="/logo-wide-1.svg"
-              />
+              <span className="text-2xl font-bold">Viruox</span>
             </div>
 
             <p className="w-full font-text-regular-normal font-[number:var(--text-regular-normal-font-weight)] text-black text-[length:var(--text-regular-normal-font-size)] tracking-[var(--text-regular-normal-letter-spacing)] leading-[var(--text-regular-normal-line-height)] [font-style:var(--text-regular-normal-font-style)]">
@@ -149,7 +145,7 @@ export const FooterSection = (): JSX.Element => {
             </nav>
 
             <p className="font-text-small-normal font-[number:var(--text-small-normal-font-weight)] text-black text-[length:var(--text-small-normal-font-size)] tracking-[var(--text-small-normal-letter-spacing)] leading-[var(--text-small-normal-line-height)] whitespace-nowrap [font-style:var(--text-small-normal-font-style)]">
-              © 2025 Al-Ameed. All rights reserved.
+              © 2025 Viruox. All rights reserved.
             </p>
           </div>
         </div>
